@@ -9,6 +9,8 @@
 
 const float FPS = 60;
 
+//hgujhg
+
 int main() {
 
 	ALLEGRO_DISPLAY *display = NULL;
