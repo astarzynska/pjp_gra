@@ -1,0 +1,5 @@
+﻿  Źródło.cpp
+c:\users\alicja\desktop\studia\dev\pjp\project5\project5\źródło.cpp(28): warning C4101: "dy_kom": lokalna zmienna, do której nie istnieje odwołanie
+c:\users\alicja\desktop\studia\dev\pjp\project5\project5\źródło.cpp(52): warning C4101: "keyboard": lokalna zmienna, do której nie istnieje odwołanie
+c:\users\alicja\desktop\studia\dev\pjp\project5\project5\źródło.cpp(28): warning C4101: "dx_kom": lokalna zmienna, do której nie istnieje odwołanie
+  Project5.vcxproj -> C:\Users\Alicja\Desktop\STUDIA\Dev\pjp\Project5\Debug\Project5.exe
